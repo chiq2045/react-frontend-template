@@ -7,4 +7,4 @@ Clone this repository as your frontend folder and delete/reinitialize the .git f
 
 ## License
 
-[MIT](LICENCE)
+[MIT](./LICENSE)
