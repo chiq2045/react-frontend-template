@@ -77,6 +77,13 @@ module.exports = {
     static: {
       publicPath: '/'
     },
+    client: {
+      overlay: {
+        errors: true,
+        warnings: false
+      },
+      progress: true
+    },
     port: 9000,
     historyApiFallback: true,
     hot: true
